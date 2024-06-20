@@ -1,0 +1,462 @@
+[{
+  "_id": {
+    "$oid": "6673b8355ca8088986811ad5"
+  },
+  "YEAR": "II",
+  "SEMESTER": "I",
+  "CLASS INCHARGE NAME": "Mrs.K.Manasa",
+  "SECTION": "Group - 1",
+  "CONTACT NO": {
+    "": {
+      "$numberLong": "9059794747"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6673b8355ca8088986811ad6"
+  },
+  "YEAR": "II",
+  "SEMESTER": "I",
+  "CLASS INCHARGE NAME": "Dr. M. Santhosh Kumar",
+  "SECTION": "Group - 2",
+  "CONTACT NO": {
+    "": {
+      "$numberLong": "9701723629"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6673b8355ca8088986811ad7"
+  },
+  "YEAR": "II",
+  "SEMESTER": "I",
+  "CLASS INCHARGE NAME": "Mr.D.Trinadha Rao",
+  "SECTION": "Group - 3",
+  "CONTACT NO": {
+    "": {
+      "$numberLong": "9866743443"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6673b8355ca8088986811ad8"
+  },
+  "YEAR": "II",
+  "SEMESTER": "I",
+  "CLASS INCHARGE NAME": "Mr. D.Srikanth",
+  "SECTION": "Group - 4",
+  "CONTACT NO": {
+    "": {
+      "$numberLong": "9505302498"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6673b8355ca8088986811ad9"
+  },
+  "YEAR": "II",
+  "SEMESTER": "I",
+  "CLASS INCHARGE NAME": "Mr. Vamshi Krishna",
+  "SECTION": "Group - 5",
+  "CONTACT NO": {
+    "": {
+      "$numberLong": "9052842818"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6673b8355ca8088986811ada"
+  },
+  "YEAR": "II",
+  "SEMESTER": "I",
+  "CLASS INCHARGE NAME": "Mrs. S Sagharika",
+  "SECTION": "Group - 6",
+  "CONTACT NO": {
+    "": {
+      "$numberLong": "7989859459"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6673b8355ca8088986811adb"
+  },
+  "YEAR": "II",
+  "SEMESTER": "I",
+  "CLASS INCHARGE NAME": "Dr. G. Jose Moses",
+  "SECTION": "Group - 7",
+  "CONTACT NO": {
+    "": {
+      "$numberLong": "9701329977"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6673b8355ca8088986811adc"
+  },
+  "YEAR": "II",
+  "SEMESTER": "I",
+  "CLASS INCHARGE NAME": "Dr.B.Jogeswara Rao",
+  "SECTION": "Group - 8",
+  "CONTACT NO": {
+    "": {
+      "$numberLong": "9550009538"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6673b8355ca8088986811add"
+  },
+  "YEAR": "II",
+  "SEMESTER": "II",
+  "CLASS INCHARGE NAME": "Mrs.P.Shyamala",
+  "SECTION": "ALPHA",
+  "CONTACT NO": {
+    "": {
+      "$numberLong": "9894965756"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6673b8355ca8088986811ade"
+  },
+  "YEAR": "II",
+  "SEMESTER": "II",
+  "CLASS INCHARGE NAME": "Mrs.Sowmya Saraf",
+  "SECTION": "BETA",
+  "CONTACT NO": {
+    "": {
+      "$numberLong": "9701260289"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6673b8355ca8088986811adf"
+  },
+  "YEAR": "II",
+  "SEMESTER": "II",
+  "CLASS INCHARGE NAME": "Mrs.S.Monika",
+  "SECTION": "GEMMA",
+  "CONTACT NO": {
+    "": {
+      "$numberLong": "9566841184"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6673b8355ca8088986811ae0"
+  },
+  "YEAR": "II",
+  "SEMESTER": "II",
+  "CLASS INCHARGE NAME": "r.M.Santhosh Kumar",
+  "SECTION": "DELTA",
+  "CONTACT NO": {
+    "": {
+      "$numberLong": "9701723629"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6673b8355ca8088986811ae1"
+  },
+  "YEAR": "II",
+  "SEMESTER": "II",
+  "CLASS INCHARGE NAME": "Mrs.P.Sabitha",
+  "SECTION": "SIGMA",
+  "CONTACT NO": {
+    "": {
+      "$numberLong": "8008463700"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6673b8355ca8088986811ae2"
+  },
+  "YEAR": "II",
+  "SEMESTER": "II",
+  "CLASS INCHARGE NAME": "Mr.G.Raju",
+  "SECTION": "OMEGA",
+  "CONTACT NO": {
+    "": {
+      "$numberLong": "9640051898"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6673b8355ca8088986811ae3"
+  },
+  "YEAR": "II",
+  "SEMESTER": "II",
+  "CLASS INCHARGE NAME": "Mrs.D.Suneetha",
+  "SECTION": "ZETA",
+  "CONTACT NO": {
+    "": {
+      "$numberLong": "7702976749"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6673b8355ca8088986811ae4"
+  },
+  "YEAR": "II",
+  "SEMESTER": "II",
+  "CLASS INCHARGE NAME": "Mr.Naveena Kumar",
+  "SECTION": "EPSILON",
+  "CONTACT NO": {
+    "": {
+      "$numberLong": "9951414245"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6673b8355ca8088986811ae5"
+  },
+  "YEAR": "III ",
+  "SEMESTER": "I ",
+  "CLASS INCHARGE NAME": "Mrs.P.Sabitha",
+  "SECTION": "ALPHA",
+  "CONTACT NO": {
+    "": {
+      "$numberLong": "8008463700"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6673b8355ca8088986811ae6"
+  },
+  "YEAR": "III ",
+  "SEMESTER": "I ",
+  "CLASS INCHARGE NAME": "Mr.K.Sreekanth",
+  "SECTION": "BETA",
+  "CONTACT NO": {
+    "": {
+      "$numberLong": "8500533524"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6673b8355ca8088986811ae7"
+  },
+  "YEAR": "III ",
+  "SEMESTER": "I ",
+  "CLASS INCHARGE NAME": "Mrs.P.Shyamala",
+  "SECTION": "GEMMA",
+  "CONTACT NO": {
+    "": {
+      "$numberLong": "9894965756"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6673b8355ca8088986811ae8"
+  },
+  "YEAR": "III ",
+  "SEMESTER": "I ",
+  "CLASS INCHARGE NAME": "Mrs.M.Mounika",
+  "SECTION": "DELTA",
+  "CONTACT NO": {
+    "": {
+      "$numberLong": "9908601526"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6673b8355ca8088986811ae9"
+  },
+  "YEAR": "III ",
+  "SEMESTER": "I ",
+  "CLASS INCHARGE NAME": "Mrs.S.Sowmya",
+  "SECTION": "SIGMA",
+  "CONTACT NO": {
+    "": {
+      "$numberLong": "9701260289"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6673b8355ca8088986811aea"
+  },
+  "YEAR": "III ",
+  "SEMESTER": "I ",
+  "CLASS INCHARGE NAME": "Mrs.Shilpa",
+  "SECTION": "Omega",
+  "CONTACT NO": {
+    "": {
+      "$numberLong": "9618319539"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6673b8355ca8088986811aeb"
+  },
+  "YEAR": "III ",
+  "SEMESTER": "I ",
+  "CLASS INCHARGE NAME": "Mrs. B.Tejaswi",
+  "SECTION": "Zeta ",
+  "CONTACT NO": {
+    "": {
+      "$numberLong": "9059651369"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6673b8355ca8088986811aec"
+  },
+  "YEAR": "III ",
+  "SEMESTER": "I ",
+  "CLASS INCHARGE NAME": "Dr.M.Gowtham",
+  "SECTION": "Epsilon",
+  "CONTACT NO": {
+    "": {
+      "$numberLong": "9951444611"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6673b8355ca8088986811aed"
+  },
+  "YEAR": "III ",
+  "SEMESTER": "II ",
+  "CLASS INCHARGE NAME": "Dr.K.Siva Krishna ",
+  "SECTION": "ALPHA",
+  "CONTACT NO": {
+    "": {
+      "$numberLong": "9966045723"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6673b8355ca8088986811aee"
+  },
+  "YEAR": "III ",
+  "SEMESTER": "II ",
+  "CLASS INCHARGE NAME": "M.Krishna Kishore",
+  "SECTION": "BETA",
+  "CONTACT NO": {
+    "": {
+      "$numberLong": "9848637090"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6673b8355ca8088986811aef"
+  },
+  "YEAR": "III ",
+  "SEMESTER": "II ",
+  "CLASS INCHARGE NAME": "Mrs.D.Sreevidya",
+  "SECTION": "GEMMA",
+  "CONTACT NO": {
+    "": {
+      "$numberLong": "8555874576"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6673b8355ca8088986811af0"
+  },
+  "YEAR": "III ",
+  "SEMESTER": "II ",
+  "CLASS INCHARGE NAME": "Dr.P.RamBabu",
+  "SECTION": "DELTA",
+  "CONTACT NO": {
+    "": {
+      "$numberLong": "9652665840"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6673b8355ca8088986811af1"
+  },
+  "YEAR": "III ",
+  "SEMESTER": "II ",
+  "CLASS INCHARGE NAME": "Mrs.B.Tejaswi",
+  "SECTION": "SIGMA",
+  "CONTACT NO": {
+    "": {
+      "$numberLong": "9059651369"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6673b8355ca8088986811af2"
+  },
+  "YEAR": "IV ",
+  "SEMESTER": "I ",
+  "CLASS INCHARGE NAME": "Mr. Srajan Kumar",
+  "SECTION": "ALPHA",
+  "CONTACT NO": {
+    "": {
+      "$numberLong": "9032150341"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6673b8355ca8088986811af3"
+  },
+  "YEAR": "IV ",
+  "SEMESTER": "I ",
+  "CLASS INCHARGE NAME": "Mr.N.V.Krishna Rao",
+  "SECTION": "BETA",
+  "CONTACT NO": {
+    "": {
+      "$numberLong": "9985821437"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6673b8355ca8088986811af4"
+  },
+  "YEAR": "IV ",
+  "SEMESTER": "I ",
+  "CLASS INCHARGE NAME": "Mr. B. Hari",
+  "SECTION": "GEMMA",
+  "CONTACT NO": {
+    "": {
+      "$numberLong": "8106229367"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6673b8355ca8088986811af5"
+  },
+  "YEAR": "IV ",
+  "SEMESTER": "I ",
+  "CLASS INCHARGE NAME": "Mrs.Gandu Lavanya",
+  "SECTION": "DELTA",
+  "CONTACT NO": {
+    "": {
+      "$numberLong": "8309302451"
+    }
+  }
+}]
